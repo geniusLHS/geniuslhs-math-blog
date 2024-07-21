@@ -25,6 +25,7 @@ const config: DocsThemeConfig = {
         <meta property="og:url" content={url} />
         <meta property="og:title" content={frontMatter.title || "P^2e^2"} />
         <meta property="og:description" content={frontMatter.description || "페페의 수학탐험일지"} />
+        <meta name="google-site-verification" content="esf9ytGOvWiFwjel19LqLBiRCOz5e_Wn1gv8JEFQJPg" />
         <link rel="icon" href="/favicon.ico" sizes="any" />
       </>
     );
