@@ -41,7 +41,6 @@ const config: DocsThemeConfig = {
   docsRepositoryBase: "https://github.com/geniusLHS/geniuslhs-math-blog",
   toc: {
     title: "목차",
-    backToTop: true,
   },
   editLink: {
     component: null,
