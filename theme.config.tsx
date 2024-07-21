@@ -33,8 +33,8 @@ const config: DocsThemeConfig = {
     link: "https://github.com/geniusLHS/geniuslhs-math-blog",
   },
   search: {
-    emptyResult: <span className="nx-block nx-select-none nx-p-8 nx-text-center nx-text-sm nx-text-gray-400">검색 결과 없음</span>,
-    loading: <span className="nx-block nx-select-none nx-p-8 nx-text-center nx-text-sm nx-text-gray-400">로딩중...</span>,
+    emptyResult: "검색 결과 없음",
+    loading: "로딩중...",
     error: "에러 발생",
     placeholder: "검색",
   },
