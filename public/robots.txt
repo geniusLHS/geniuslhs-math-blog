@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://math.geniuslhs.com
+
+# Sitemaps
+Sitemap: https://math.geniuslhs.com/sitemap.xml
