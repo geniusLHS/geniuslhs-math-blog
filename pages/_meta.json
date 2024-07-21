@@ -1,15 +1,10 @@
 {
-  "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
-  "about": {
-    "title": "About",
-    "type": "page"
+  "index": { "title": "메인 페이지", "display": "hidden" },
+  "analysis": {
+    "title": "해석학"
   },
-  "contact": {
-    "title": "Contact ↗",
-    "type": "page",
-    "href": "https://twitter.com/shuding_",
-    "newWindow": true
+  "about": {
+    "title": "대하여",
+    "type": "page"
   }
 }
